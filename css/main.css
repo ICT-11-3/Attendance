@@ -699,9 +699,8 @@ td {
   color: indianred;
 }
 #openProfileButton:hover,
-#logoutSymbol:hover {
-  cursor: pointer;
-}
+#logoutSymbol:hover,
 #monthOption:hover {
   cursor: pointer;
 }
+
