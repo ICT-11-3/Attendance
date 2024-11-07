@@ -698,7 +698,7 @@ td {
 #exclamation {
   color: indianred;
 }
-#monthSelect:hover {
+.selection select:hover, option:hover {
   cursor: pointer;
 }
 
