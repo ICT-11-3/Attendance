@@ -698,7 +698,7 @@ td {
 #exclamation {
   color: indianred;
 }
-.selection select:hover, option:hover {
+.selection select:hover, .selection option:hover {
   cursor: pointer;
 }
 
